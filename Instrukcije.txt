@@ -1,0 +1,13 @@
+U bazi podataka trenutno je postavljen korisnik:
+username: rootTest
+password: 123456789
+Kad se pravi novi korisnik potrebno je uci u folder Php/registracija.php i registrovat novog korisnika (radi Hasha).
+
+U DB Files se nalazi punjenjePodataka.php fajl koji puni bazu iz json fajla.
+Promjenit u njemu ime sa "jsonFajl.json" u zeljeno ime json fajla i samo pokrenut preko browsera punjenjePodataka.php
+
+testbaza(baza podataka) ima u sebi dvije tabel: tabela1 i users.
+tabela1 : tabela koja prikazuje broj operatera, algoritma itd itd.
+users: u sebi sadrzi korisnike.
+
+
